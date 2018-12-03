@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Score\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=onLeft
+comment1.target=Score(boolean)
+comment1.text=\r\n\ Score\ is\ the\ default\ constructer\ for\ Score\r\n\ @param\ A\ boolean\ is\ in\ the\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Score\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ @param\ None\ their\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ displayScore()
+comment3.text=\r\n\ displayScore\ displays\ the\ score\ in\ the\ scenario\ of\ the\ world\r\n
+comment4.params=
+comment4.target=void\ countScore()
+comment4.text=\r\n\ countScore\ counts\ the\ score\ of\ the\ players\r\n\ @param\ None\ their\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=int\ getScore()
+comment5.text=\r\n\ getScore\ gets\ the\ returns\ the\ player\ score\r\n\ @param\ None\ their\ are\ no\ parametres\r\n\ @return\ An\ integer\ is\ returned\r\n
+numComments=6

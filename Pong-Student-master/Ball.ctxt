@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Ball()
+comment1.text=\r\n\ Ball\ is\ the\ constructer\ for\ the\ objetcs\ type\ ball\ \r\n\ @return\ None\ Nothing\ is\ returned\r\n\ @param\ Their\ are\ no\ Paramters\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ @param\ their\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ checkCollsion()
+comment3.text=\r\n\ checkCollsion\ checks\ if\ the\ object\ Ball\ hits\ the\ paddles\ or\ the\ side\r\n\ @param\ Nothing\ their\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=v
+comment4.target=void\ setVelocity(int)
+comment4.text=\r\n\ setVelocity\ sets\ the\ velocity\ of\ the\ Ball\ \r\n
+numComments=5
